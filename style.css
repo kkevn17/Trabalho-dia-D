@@ -22,6 +22,9 @@
     width: 120px;
     cursor: pointer;
 }
+.navbar ul{
+    
+}
 .navbar ul li{
     list-style: none;
     display: inline-block;
